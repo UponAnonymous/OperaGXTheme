@@ -401,7 +401,7 @@ html #app-mount:before,
 
 .container-YkUktl,
 .container-1zzFcN {
-  background-color: rgb(var(--background-accent-color-1));
+  background: transparent !important;
 }
 
 /* Activities background for webverison :)*/
