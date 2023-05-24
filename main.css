@@ -401,7 +401,7 @@ html #app-mount:before,
 
 .container-YkUktl,
 .container-1zzFcN {
-  background: transparent !important;
+  background: none !important;
 }
 
 /* Activities background for webverison :)*/
@@ -2208,7 +2208,7 @@ code.inline {
 }
 
 .separator-3vTHjS {
-  background-color: none;
+  background-color: transparent;
 }
 
 .pageBody-23bo4p .search-kg4MrS.container-2oNtJn.medium-2NClDM {
@@ -2216,7 +2216,7 @@ code.inline {
 }
 
 .sectionDivider-189lqb {
-  background-color: none;
+  background-color: transparent;
 }
 
 /*  Customize Profile in Customize under channel browser*/
