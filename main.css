@@ -466,6 +466,7 @@ html #app-mount:before,
 .tabBody-2dgbAs,
 .wrapper-3Hk9OB {
   border-top: var(--border-color-accent-1);
+  background: none !important;
 }
 
 .membersWrap-3NUR2t {
