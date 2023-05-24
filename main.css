@@ -401,7 +401,7 @@ html #app-mount:before,
 
 .container-YkUktl,
 .container-1zzFcN {
-  background: none !important;
+  background-color: rgb(var(--background-accent-color-1));
 }
 
 /* Activities background for webverison :)*/
@@ -466,7 +466,7 @@ html #app-mount:before,
 .tabBody-2dgbAs,
 .wrapper-3Hk9OB {
   border-top: var(--border-color-accent-1);
-  background: none !important;
+  background-color: rgb(var(--background-accent-color-1));
 }
 
 .membersWrap-3NUR2t {
@@ -592,9 +592,9 @@ html #app-mount:before,
 }
 
 /* Voice call playing now tooltip */
-/* .container-8Futzw.thin-31rlnD.scrollerBase-_bVAAt {
+.container-8Futzw.thin-31rlnD.scrollerBase-_bVAAt {
   border: var(--border-color-accent-1);
-} */
+}
 
 /* In-coming call border */
 .root-1e2tfc.elevationHigh-3KUiqj {
