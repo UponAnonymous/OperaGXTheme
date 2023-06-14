@@ -985,7 +985,7 @@ html #app-mount:before,
 /* Button in the button left Screenshare etc*/
 .button-1EGGcP.buttonColor-3bP3fX.button-ejjZWC.lookFilled-1H2Jvj {
   color: white !important;
-  border: var(--border-color-accent-1);
+  border: var(--border-color-accent);
 }
 
 /* Settings Profile Buttons */
